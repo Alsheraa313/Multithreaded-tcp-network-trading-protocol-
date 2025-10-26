@@ -13,8 +13,9 @@ On linux for client gcc cClient.c -o cClient -lsqlite3 to build the client, ./cC
 
 Each Student’s role:
 Mohammed Alsheraa - Implemented the following features: 
-Implemented functions for DEPOSIT, SHUTDOWN, LOGOUT, LOGIN
-Implemented the ability for multiple clients on the server
+Implemented functions for DEPOSIT, SHUTDOWN, LOGOUT, LOGIN, Tasks queue, Workerthread
+Implemented multithreading
+
 Ellette Foucher - Implemented the following features:
 Implemented functions for LIST, WHO, LOOKUP
 
